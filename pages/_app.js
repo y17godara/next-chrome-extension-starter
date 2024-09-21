@@ -1,13 +1,5 @@
-import '../styles/globals.css';
-import Footer from '../components/navigaton/Footer';
-import Header from '../components/navigaton/Header';
+import "../styles/globals.css";
 
 export default function App({ Component, pageProps }) {
-  return (
-    <>
-      <Header/>
-      <Component {...pageProps} />
-      <Footer />
-    </>
-  );
+  return <Component {...pageProps} />;
 }
