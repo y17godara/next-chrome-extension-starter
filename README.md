@@ -1,4 +1,5 @@
 # Next.js Chrome Extension Starter
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=y17godara.next-chrome-extension-starter)
 
 [Updated] New Next.js Chrome Extension Starter, Demo Example by y17godara.  
 Visit the repository: [next-chrome-extension-starter](https://github.com/y17godara/next-chrome-extension-starter)
